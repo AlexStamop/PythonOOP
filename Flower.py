@@ -18,3 +18,5 @@ def main(): #Defining the main program
 
 if __name__ == "__main__": #Conditional if statement assigning the string name
   main() #Running the main program
+# Alex Stamopoulos
+# March 10, 2024
